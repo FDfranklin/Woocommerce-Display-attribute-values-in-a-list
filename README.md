@@ -1,4 +1,4 @@
-# Woocommerce - Display attributes in a list
+# Woocommerce - Display attribute values in a list
 By default Woocommerce will display your attribute values in the additional information tab within a p tag separated by commas, this will put it in a list.
 
     <?php
